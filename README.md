@@ -1,1 +1,1 @@
-# .github
+# uses.ink
