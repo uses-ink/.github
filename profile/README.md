@@ -3,9 +3,9 @@
     <img src="../assets/dark.png#gh-dark-mode-only" width="70%"/>
 </p>
 
-This is a minimalistic blog platform for developers. It's based on markdown files and uses GitHub as a storage.
 
 <p align="center">
+This is a minimalistic blog platform for developers. It's based on markdown files and uses GitHub as a storage.
     <b>
         <a href="https://uses.ink">Website</a>
         •
