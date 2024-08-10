@@ -5,7 +5,9 @@
 
 
 <p align="center">
-This is a minimalistic blog platform for developers. It's based on markdown files and uses GitHub as a storage.
+    This is a minimalistic blog platform for developers. It's based on markdown files and uses GitHub as a storage.
+</p>
+<p align="center">
     <b>
         <a href="https://uses.ink">Website</a>
         •
